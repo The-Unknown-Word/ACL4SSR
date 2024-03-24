@@ -1,6 +1,7 @@
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,music.apple.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,leetcode.com
-DOMAIN-SUFFIX,folivora.ai
-DOMAIN-SUFFIX,formulae.brew.sh
+payload:
+  - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN-SUFFIX,music.apple.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,leetcode.com
+  - DOMAIN-SUFFIX,folivora.ai
+  - DOMAIN-SUFFIX,formulae.brew.sh
